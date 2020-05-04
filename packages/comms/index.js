@@ -5,9 +5,6 @@ module.exports = {
   sendCommand: () => {
     console.log("send command");
   },
-  changeSetting: () => {
-    console.log("change setting");
-  },
   pizzaMode: () => {
     console.log("pizza mode setting");
   },
